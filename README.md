@@ -3,7 +3,9 @@ Contrastive learning for fine-tuning sentene embedding model to learn semantic s
 Data Augmentation method based on DP (Dependency Parsing) is implemented for auto-generation of silver datasets to improve vector representations for structrally incomplete sentences that are frequently used in real life.
 
 
-## Base model: BERT, RoBERTa
+## Base model: 
+  1. BERT 
+  2. RoBERTa
 
 Training overview of the sentence embedding model with data augmentation
 
