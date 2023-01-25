@@ -4,8 +4,8 @@ Data Augmentation method based on DP (Dependency Parsing) is implemented for aut
 
 Training overview of the sentence embedding model with data augmentation
 
-![캡처](https://user-images.githubusercontent.com/73643391/214560101-87ef8f2c-30f1-40a5-b624-18c2cf482ab1.PNG)
 
+<img src="[/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG](https://user-images.githubusercontent.com/73643391/214560101-87ef8f2c-30f1-40a5-b624-18c2cf482ab1.PNG)"  width="700" height="370">
 
 # Passage Embedding Model for Passage Retrieval
 Curriculum learning for fine-tuning passage embedding model to learn semantic relation between a query and passages containing an answer. 
