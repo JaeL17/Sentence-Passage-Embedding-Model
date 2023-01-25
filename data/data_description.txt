@@ -1,0 +1,12 @@
+korQuAD
+    - To train passage embedding model
+    
+sts
+    - to train sentence embedding model
+    
+-------------- korQuAD dataset 이용해서 silver dataset 생성 -------------- 
+tq_train_v2.json
+    -document당 positive, neutral, negative 포함 -> document에서 여러가지 passage나옴
+    
+tq_train_exc_neu.json
+    -document당 positive, negative만 -> 전체 doc 개수 X 2 만큼의 데이터
